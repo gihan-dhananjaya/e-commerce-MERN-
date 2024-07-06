@@ -1,0 +1,9 @@
+.logo{
+  height: 60px;
+  border-radius: 50%;
+  border:2px solid palevioletred;
+}
+
+.card img{
+  height: auto;
+}
